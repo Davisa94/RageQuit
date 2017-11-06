@@ -1,0 +1,5 @@
+Choose which to use:
+TODO: Random mouse move
+TODO: Random text typing
+TODO: Clipboard trolling
+TODO: Annoying popup dialog boxes

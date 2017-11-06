@@ -1,0 +1,25 @@
+{
+   "name":"Force Ragequit",
+   "description":"Makes you ragequit",
+   "version":"1.0",
+   "manifest_version":2,
+   "icons":{
+      "16":"icon.png"
+   },
+
+   "browser_action":{
+      "default_icon":"icon.png",
+      "default_popup":"popup.html"
+   },
+
+   "options_page" : "options.html",
+    
+   "permissions":[
+      "tabs",
+      "storage",
+      "clipboardRead",
+      "clipboardWrite",
+      "notifications",
+      "background"
+   ]
+}
